@@ -1,1 +1,2 @@
 我是master中的文件
+我在master 的readme。txt中添加了内容
