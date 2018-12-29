@@ -4,3 +4,4 @@
 adb
 
 cvd
+wo disanco
